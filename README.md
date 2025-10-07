@@ -15,7 +15,7 @@ Features
 - Pivot Tables & Pivot Charts  
 - Slicers and Conditional Formatting  
 
- Dashboard Preview  
+ 
 ![Dashboard Preview](<img width="1512" height="758" alt="Dashboard_Preview png" src="https://github.com/user-attachments/assets/a6e47665-7cf9-41aa-a76c-2e60f407e7a3" />
 )  
 
